@@ -11,27 +11,39 @@ EXEMPLO DE USO
 Entrada do usuário:
 
 Nome: Cimento
+
 Quantidade: 25
+
 Preço: R$ 32.50 
 
 Saída (opção 1)
 INFORMAÇÕES
-Nome: Cimento <br>
+Nome: Cimento
+
 Quantidade: 25
+
 Preço: R$ 32.50
+
 Status: Disponível
 
 Saída (opção 2)
+
 Valor total em estoque: R$ 812.5
 
+
 Saída (opção 3)
+
 Digite o percentual de desconto: 10
+
 Preço com desconto: R$ 29.25
 
 Saída (opção 4)
 Digite a quantidade mínima ideal: 30
+
 Estoque baixo! Repor produto.
+
 Saída (opção 5)
+
 Estoque atual: 25
 Digite a nova quantidade:0
 Quantidade atualizada!

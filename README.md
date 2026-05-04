@@ -16,7 +16,7 @@ Preço: R$ 32.50
 
 Saída (opção 1)
 INFORMAÇÕES
-Nome: Cimento
+Nome: Cimento <br>
 Quantidade: 25
 Preço: R$ 32.50
 Status: Disponível

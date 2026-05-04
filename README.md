@@ -45,5 +45,7 @@ Estoque baixo! Repor produto.
 Saída (opção 5)
 
 Estoque atual: 25
+
 Digite a nova quantidade:0
+
 Quantidade atualizada!
